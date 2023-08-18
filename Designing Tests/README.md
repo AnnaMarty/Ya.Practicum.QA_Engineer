@@ -19,4 +19,3 @@ Designing Tests
 
 - 📌 Профиль YouTrack: https://anna-martynova.youtrack.cloud/issues
 - 📌 Ссылка на гугл-док: https://docs.google.com/document/d/18HtfdUZ_1qzp2Y551h1P-Tha6Gvr6WaLc9-QYU7LS4k/edit?usp=sharing
-- https://docs.google.com/spreadsheets/d/1iZe_xJno5o53yDGcX_CLJj-gmjjXOyRSIUg7ugufppk/edit?usp=sharing
