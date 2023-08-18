@@ -1,4 +1,4 @@
-# Ya.Practicum.QA_Engineer|Инженер по тестированию
+
 ## QA Engineer bootcamp|Инженер по тестированию буткемп
  
 - ❗️ Задание 1:
