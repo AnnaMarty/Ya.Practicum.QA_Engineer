@@ -16,4 +16,4 @@
 
 
 - 📌 Профиль YouTrack: https://anna-martynova.youtrack.cloud/issue
-- 📌 Ссылка на гугл-док: **https://docs.google.com/document/d/1-X04YY4gCpAK5yyQeSvmMOBF9LT-BuGP3NFPJdjUPY0/edit?usp=sharing
+- 📌 Ссылка на гугл-док: https://docs.google.com/document/d/1-X04YY4gCpAK5yyQeSvmMOBF9LT-BuGP3NFPJdjUPY0/edit?usp=sharing
