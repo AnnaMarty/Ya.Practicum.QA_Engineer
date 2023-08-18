@@ -1,7 +1,7 @@
 # Ya.Practicum.QA_Engineer|Инженер по тестированию
 ## QA Engineer bootcamp|Инженер по тестированию буткемп
 
-*Course program:*
+**Course program:**
   1. QA Fundamentals
   
   2. Designing Tests
